@@ -1,0 +1,8 @@
+Event: Data input executed.
+Event: Data input executed.
+Event: Program started with option 2.
+Event: Program exited by user.
+Event: Program exited by user.
+Event: Program started with option 2.
+Event: Program exited by user.
+Event: Program started with option 5.
